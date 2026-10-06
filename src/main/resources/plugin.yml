@@ -1,0 +1,9 @@
+name: HeadDisguise
+version: 1.0.0
+main: fr.troll.headdisguise.HeadDisguise
+api-version: '26.2'
+description: Craft une tete de transformation et deviens le joueur de la tete
+commands:
+  destransformer:
+    description: Reprendre ton apparence normale
+    usage: /destransformer
